@@ -1,5 +1,3 @@
-# Github readme
-
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Nasiullha Chaudhari a.k.a <a href="https://www.youtube.com/@cloudchamp/">CloudChamp</a></font></h1>
 <h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/nasiullha-chaudhari/" target="_blank" rel="noreferrer">Nasi</a> is a passionate DevOps Engineer from India, working on Cloud and DevOps for 3+ years now. Feel free to reach out for any Freelance Projects.</font></h3>
@@ -53,7 +51,7 @@
 </a>
 
 <!-- Stats and GitHub activity -->
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=n4si&label=Profile views&color=0e75b6&style=flat](https://komarev.com/ghpvc/?username=n4si&label=Profile%20views&color=0e75b6&style=flat)" alt="n4si" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=n4si&label=Profile views&color=0e75b6&style=flat" alt="n4si" /> </p>
 
 - I work on DevOps, Microservices, containers, and everything around it.
 - 👯 I’m looking to collaborate on **Cloud-native Projects**
