@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Chinmaya panigrahi</font></h1>
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/chinmayk98/" target="_blank" rel="noreferrer">Chinmay</a> is a passionate DevOps Engineer from India, working on Cloud and DevOps for 3+ years now. Feel free to reach out for any Freelance Projects.</font></h3>
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/chinmayk98/" target="_blank" rel="noreferrer">Chinmay</a> is a Seasoned DevOps Engineer from India, With 3 years of Comprehensive experience in Cloud & Devops. Feel free to reach out for any Freelance Projects and Jobs.</font></h3>
 
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
@@ -45,7 +45,7 @@
 </a>
 
 <!-- Stats and GitHub activity -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=n4si&label=Profile views&color=0e75b6&style=flat" alt="chinmayk98" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=n4si&label=Profile views&color=0e75b6&style=flat" alt="chinmay1998" /> </p>
 
 - I work on DevOps, Microservices, containers, and everything around it.
 - 👯 I’m looking to collaborate on **Cloud-native Projects**
@@ -57,4 +57,4 @@
 
 - 👨‍💻 All of my projects are going to publish in this Github Account.
 - 💬 Ask me about **DevOps**
-- 📫 How to reach me **[cloudchamp44@gmail.com](mailto:cloudchamp44@gmail.com)**
+- 📫 How to reach me **[chinmayk98@gmail.com](mailto:chinmayk98@gmail.com)**
