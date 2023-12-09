@@ -61,13 +61,35 @@
 
 - I work on DevOps, Microservices, containers, and everything around it.
 - 👯 I’m looking to collaborate on **Cloud-native Projects**
+- Programming Language Stack
+bash python groovy java go
+
+OS Stack
+linux ubuntu alpine centOS
+
+Database Stack
+mysql postgresql cassandra couchbase
+
+Dev Stack
+maven sbt kafka elasticsearch
+
+DevOps Stack
+aws gcp ansible terraform jenkins circleci codeship bamboo docker harbor kubernetes harbor traefik nginx logstash kibana promethues graphite grafana
+
+Project Management Stack
+git github bitbucket jira trello
+
+Editor / IDE I ♥
+sublime intellij vs-code
 
 <!-- Contact Section -->
 <h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
 <p align="left">
 </p>
 
-- 👨‍💻 All of my projects are available at [cloudchamp.in](https://www.notion.so/cloudchamp/cloudchamp.in)
 - 💬 Ask me about **DevOps**
 - 📫 How to reach me **[cloudchamp44@gmail.com](mailto:cloudchamp44@gmail.com)**
 - ⚡ Fun fact **I create YouTube videos**
+
+
+
